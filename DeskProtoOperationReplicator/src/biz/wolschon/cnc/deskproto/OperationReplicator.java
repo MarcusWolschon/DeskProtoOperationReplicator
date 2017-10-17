@@ -23,7 +23,6 @@ public class OperationReplicator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		final File in = new File("E:\\Aktuelle_Projekte\\Eclipse-Workspace\\DeskProtoOperationReplicator\\testdata\\input.dpj") ;
 		final File out = new File("E:\\Aktuelle_Projekte\\Eclipse-Workspace\\DeskProtoOperationReplicator\\testdata\\output.dpj") ;
